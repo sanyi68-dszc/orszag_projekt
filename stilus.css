@@ -1,0 +1,16 @@
+.cim{
+    font-size: 120%;
+    font-family: Mogra, system-ui;
+}
+.kep{
+    height: 300px;
+}
+.leiras{
+    text-align: justify;
+}
+.kartya{
+    border:1px,solid,blue;
+    box-shadow: 3px 3px;
+    border-radius: 3px;
+    padding: 15px;
+}
