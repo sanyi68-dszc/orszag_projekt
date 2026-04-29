@@ -13,5 +13,10 @@ termeszetTomb=[
         "nev":"Lemmenjoki Nemzeti Park",
         "leiras":"Finnország legnagyobb nemzeti parkja több mint 2850 négyzetkilométer és Európa egyik legnagyobb érintetlen vadonja. Nevét a Lemmenjoki folyóról kapta, amely átszeli a területet, és fontos élőhelyet biztosít sok vadon élő állatfaj számára. A park táját változatos domborzati formák, hatalmas erdőségek, tágas mocsarak, valamint számos tó és folyó jellemzi. Különleges vonzereje a lapp kultúra és a hagyományos sami életmód. A samik, Európa legészakibb őslakos népe, hosszú ideje használják ezt a területet rénszarvasok legeltetésére.",
         "kep":"lemmenjoki-national-park.jpg"
+    },
+    {
+        "nev":"Turku",
+        "leiras":"Finnország legrégebbi városát a 13. században alapították. Sokáig ez volt az ország legnagyobb települése és volt főváros is. Belvárosában áll a katedrális, amely a finn evangélikus egyház egyik legfontosabb szimbóluma. A város másik jelentős történelmi látványossága a vár, amely a 1280-as években épült, és Finnország egyik legjobban megőrzött középkori épülete.",
+        "kep":"turku.jpg"
     }
 ]
