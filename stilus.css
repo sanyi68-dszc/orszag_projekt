@@ -1,3 +1,11 @@
+body{
+    background-image: url(kepek/finland-flag.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.tomb{
+    background-color: rgba(255, 255, 255,0.7);
+}
 .cim{
     font-size: 120%;
     font-family: Mogra, system-ui;
@@ -6,7 +14,7 @@
     height: 300px;
 }
 .leiras{
-    text-align: justify;
+    text-align: center;
 }
 .kartya{
     border:1px,solid,blue;
