@@ -16,6 +16,9 @@ document.getElementById("menu").innerHTML=`
                 <li class="nav-item">
                     <a class="nav-link" href="etelek.html">Ételek</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="rally.html">Finn rali</a>
+                </li>
             </ul>
         </div>
     </div>
