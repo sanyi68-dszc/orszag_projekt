@@ -2,6 +2,7 @@ body{
     background-image: url(kepek/finland-flag.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    font-family: Mogra;
 }
 .tomb{
     background-color: rgba(255, 255, 255,0.7);
@@ -25,5 +26,5 @@ body{
 }
 
 .sajatBetuTipus{
-    font-family: Mogra;
+    
 }
