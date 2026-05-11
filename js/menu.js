@@ -1,7 +1,7 @@
 document.getElementById("menu").innerHTML=`
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">Logo</a>
+        <img src="kepek/flag.jpg" alt="Logo" width="50px">
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -18,6 +18,9 @@ document.getElementById("menu").innerHTML=`
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="rally.html">Finn rali</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="galleria.html">Galléria</a>
                 </li>
             </ul>
         </div>
