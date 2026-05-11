@@ -14,7 +14,7 @@ function Kereses(){
             <td>${elem.auto}</td>
             <td>${elem.bajnoksag}</td>
         </tr>
-        `
+        `.toLowerCase()
         if (szoveg.includes(keresett)) {
         
             tabla += `
@@ -33,5 +33,5 @@ function Kereses(){
         
     }
     tabla+="</table>"
-    document.getElementById("rallyDiv").innerHTML+=tabla
+    document.getElementById("rallyTablaDiv").innerHTML=tabla
 }
